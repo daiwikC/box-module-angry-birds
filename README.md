@@ -1,1 +1,1 @@
-# box-module-angry-birds
+# Box Class
